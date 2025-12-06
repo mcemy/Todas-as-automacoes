@@ -89,8 +89,7 @@ Repositório de **exemplos** de automações desenvolvidas em **JavaScript** usa
 ```javascript
 /**
  * Automação: [Nome da Funcionalidade]
- * Autor: [Seu Nome]
- * Versão: 1.0.0
+ *
  */
 
 // Configurações
